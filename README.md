@@ -1,2 +1,2 @@
 # segmented-control
-Add segmented control button with UIKit
+Basic integration of segmentedControl using UIKit
